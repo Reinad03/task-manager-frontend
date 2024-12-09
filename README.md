@@ -1,3 +1,21 @@
+# Task Manager
+ The Task Manager Application is a simple task management tool where users can:
+  - Create tasks with a title, description, and status (To Do).
+  - View the list of tasks.
+  - Edit tasks.
+  - Delete tasks.
+
+##	Frontend (Next.js and Typescript)
+
+  - Clone the repository
+  - Import the folder in the VS Code software
+  - Install dependencies with -> npm install
+  - After the dependencies are installed you can run the front end
+  - Open terminal -> npm run dev
+  - The frontend should start at http://localhost:3000
+
+#
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
